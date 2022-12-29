@@ -1,0 +1,11 @@
+name: xAxee-Plots
+main: pl.xaxee.plots.PlotPlugin
+version: 1.0
+description: Plugin that adds regions management to players
+authors: [xAxee]
+depend: [WorldGuard, WorldEdit]
+website: xAxee.pl
+commands:
+  plot:
+    description: Command that adds regions management
+    aliases: [teren]

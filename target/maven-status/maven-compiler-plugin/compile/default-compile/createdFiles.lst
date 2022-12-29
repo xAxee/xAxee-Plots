@@ -1,0 +1,9 @@
+pl\xaxee\plots\util\ChatUtil.class
+pl\xaxee\plots\listener\PlayerInteractListener.class
+pl\xaxee\plots\listener\PlayerJoinListener.class
+pl\xaxee\plots\command\TerenCommand.class
+pl\xaxee\plots\manager\PlotManager.class
+pl\xaxee\plots\config\Settings.class
+pl\xaxee\plots\manager\UserManager.class
+pl\xaxee\plots\PlotPlugin.class
+pl\xaxee\plots\constructor\User.class

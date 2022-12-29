@@ -1,0 +1,62 @@
+plot:
+  #max m2 size
+  max_size: 100
+  #vault price per m2
+  price: 0.1
+
+aliases:
+  list: 'lista'
+  help: 'pomoc'
+  mark: 'znacznik'
+  create: 'stworz'
+  delete: 'usun'
+  info: 'info'
+  addMember: 'dodaj'
+  removeMember: 'wyrzuc'
+  addOwner: 'wlasciciel'
+  removeOwner: 'degraduj'
+messages:
+  help:
+    - "&8 ------------- [ &6» &exAxee Plots &6« &8 ] -------------"
+    - "&8» /&6teren &eznacznik 1/2 &8- &7Zaznacza krawędzie"
+    - "&8» /&6teren &estworz <działka> &8- &7Tworzy działkę"
+    - "&8» /&6teren &eusun <działka> &8- &7Usuwa działkę"
+    - "&8» /&6teren &einfo [działka] &8- &7Pokazuje informacje o działce"
+    - "&8» /&6teren &elista &8- &7Wyświetla listę twoich działek"
+    - "&8» /&6teren &ezaznacz [działka] &8- &7Zaznacza działkę (CUI)"
+    - "&8» /&6teren &edodaj <działka> <gracz> &8- &7Dodaje gracza do działki"
+    - "&8» /&6teren &ewlasciciel <działka> <gracz> &8- &7Dodaje gracza do właścicieli działki"
+    - "&8» /&6teren &ewyrzuc <działka> <gracz> &8- &7Usuwa gracza z działki"
+    - "&8» /&6teren &edegraduj <działka> <gracz> &8- &7Usuwa gracza z właścicieli działki"
+  info:
+    #{region_id}, {region_name}, {region_min}, {region_max}, {region_size}, {region_area}, {region_length}, {region_width}, {region_height}, {region_owners}, {region_members}
+    - "&8 ------------- [ &6» &eInformacje &6« &8 ] -------------"
+    - "&8» &6Id regionu: &e{region_id}"
+    - "&8» &6Nazwa: &e{region_name}"
+    - "&8» &6Min - Max: &e{region_min} &8- &e{region_max}"
+    - "&8» &6Wielkosc: &e{region_size} &8(&e{region_area}&7x&e{region_height}&8)"
+    - "&8» &6Wlasciciele: &e{region_owners}"
+    - "&8» &6Czlonkowie: &e{region_members}"
+  errors:
+    wrongUsage: '&8» &cZle uzycie komendy, wpisz /teren pomoc'
+    playerNotOnline: '&8» &cNie ma takiego gracza'
+    notOwner: '&8» &cNie jestes wlascicielem tego terenu'
+    playerIsNotMember: '&8» &cTen gracz nie jest czlonkiem terenu'
+    playerIsMember: '&8» &cTen gracz juz jest czlonkiem terenu'
+    playerIsNotOwner: '&8» &cTen gracz nie jest wlascicielem terenu'
+    regionIsNotExist: '&8» &cNie ma takiego regionu'
+    regionIsExist: '&8» &cDzialka o takiej nazwie juz istnieje'
+    errorMark: '&8» &cMusisz wybrac znacznik 1/2'
+    noMarks: '&8» &cNajpierw musisz ustawic znaczniki'
+    lastOwner: '&8» &cNie mozna usunac ostatniego wlasciciela'
+    intersectRegion: '&8» &cTeren nie moze przecinac innego terenu!'
+    regionIsToolarge: '&8» &cTeren jest za duzy! Maksymalny rozmiar: 10000'
+  messages:
+    successMark: '&8» &aPoprawnie ustawiono {mark} znacznik'
+    removeMember: '&8» &aPoprawnie usunieto gracza {player} z regionu {region}'
+    addMember: '&8» &aPoprawnie dodano gracza {player} do regionu {region}'
+    deleteRegion: '&8» &aPoprawnie usunieto region {region}'
+    createRegion: '&8» &aPoprawnie stworzono region {region}'
+    removeOwner: '&8» &aPoprawnie usunieto {player} z wlascicieli regionu {region}'
+    addOwner: '&8» &aPoprawnie dodano {player} do wlascicieli regionu {region}'
+    list: '&8» &aLista twoich dzialek: &e{list}'

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AxPlots">
+    <output-path>$PROJECT_DIR$/../../../../../Projekty/Serwer/zsjp2 - server/plugins</output-path>
+    <root id="archive" name="AxPlots.jar" />
+  </artifact>
+</component>

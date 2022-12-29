@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xAxee-Plots:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Projekty/Serwer/zsjp2 - server/plugins</output-path>
+    <root id="archive" name="xAxee-Plots.jar">
+      <element id="module-output" name="xAxee-Plots" />
+    </root>
+  </artifact>
+</component>
