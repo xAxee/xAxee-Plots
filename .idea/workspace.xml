@@ -10,87 +10,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eae1b05-3057-4a41-97a1-f6b21c778ec3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/AdventOfCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AxPlots.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/xAxee_Plots_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_0_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_61_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_bukkit_7_2_6_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_core_7_2_6_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_libs_core_7_2_6_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_bukkit_7_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_core_7_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_libs_core_7_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_papermc_paper_paper_api_1_19_2_R0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_unimi_dsi_fastutil_8_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_api_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_key_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_text_logger_slf4j_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_text_minimessage_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_text_serializer_gson_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_text_serializer_legacy_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_adventure_text_serializer_plain_4_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_examination_api_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_kyori_examination_string_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_16_R0_4_deprecated_build_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_4_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_flywaydb_flyway_core_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_runtime_1_7_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_17_R0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AxPlots.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.xaxee.plots.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/PlotPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/command/PlotCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/completer/PlotCompleter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/config/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/constructor/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/PlotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/util/ChatUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xAxee-Plots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang_pl.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/c-cpp.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/dotnet-desktop.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/dotnet.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/workflows/php.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/inputs/day4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventOfCode/AdventOfCode/src/Day4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/artifacts/AxPlots.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/artifacts/xAxee_Plots_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_guava_guava_31_0_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_ibm_icu_icu4j_61_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_bukkit_7_2_6_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_core_7_2_6_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_libs_core_7_2_6_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_bukkit_7_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_core_7_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_libs_core_7_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__io_papermc_paper_paper_api_1_19_2_R0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__it_unimi_dsi_fastutil_8_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_api_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_key_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_text_logger_slf4j_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_text_minimessage_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_text_serializer_gson_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_text_serializer_legacy_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_adventure_text_serializer_plain_4_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_examination_api_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_kyori_examination_string_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_16_R0_4_deprecated_build_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_antlr_ST4_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_antlr_antlr4_4_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_checkerframework_checker_qual_3_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_flywaydb_flyway_core_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_mozilla_rhino_runtime_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_ow2_asm_asm_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_ow2_asm_asm_analysis_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_ow2_asm_asm_commons_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_ow2_asm_asm_tree_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_spigotmc_spigot_api_1_17_R0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/AxPlots.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/pl.xaxee.plots.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/PlotPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/command/PlotCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/completer/PlotCompleter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/config/Settings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/constructor/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/manager/PlotManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/manager/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/java/pl/xaxee/plots/util/ChatUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/resources/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/src/main/resources/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AxPlots/xAxee-Plots.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktopowe/WFormsSqLite1/WFormsSqLite1.sln" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktopowe/WFormsSqLite1/WFormsSqLite1/.vs/ProjectEvaluation/wformssqlite1.metadata.v2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktopowe/WFormsSqLite1/WFormsSqLite1/.vs/ProjectEvaluation/wformssqlite1.projects.v2" beforeDir="false" />
@@ -1462,6 +1463,14 @@
       <change beforePath="$PROJECT_DIR$/../Webowe/Node/cw4/index.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webowe/Node/cw4/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Webowe/Node/cw4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/PlotPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/PlotPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/command/PlotCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/command/PlotCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/PlotManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/PlotManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/xaxee/plots/manager/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1476,7 +1485,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -1500,10 +1509,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Projekty/Serwer/zsjp2 - server/plugins" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.08928572" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -1597,5 +1607,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/xAxee-Plots" />
+    </ignored-roots>
   </component>
 </project>

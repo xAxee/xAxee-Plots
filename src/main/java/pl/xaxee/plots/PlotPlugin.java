@@ -2,7 +2,6 @@ package pl.xaxee.plots;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import pl.xaxee.plots.command.PlotCommand;
-import pl.xaxee.plots.completer.PlotCompleter;
 import pl.xaxee.plots.config.Settings;
 import pl.xaxee.plots.manager.UserManager;
 

@@ -17,11 +17,13 @@ public class UserManager {
         this.userList = new ArrayList<User>();
     }
     public User getUser(Player player){
-        User user = userList.stream().filter(u -> u.name.equals(player.getName())).findFirst().orElse(null);
-        if(user == null){
-            user = new User(player.getName());
-            userList.add(user);
-        }
+        User user = userList.stream().filter(u -> u.name.equals(player.getName())).findFirst().orElse(addUser(player));
+
+        return user;
+    }
+    public User addUser(Player player){
+        User user = new User(player.getName());
+        userList.add(user);
         return user;
     }
 }

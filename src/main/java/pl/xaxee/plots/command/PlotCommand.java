@@ -35,11 +35,11 @@ public class PlotCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String[] args) {
-
         if(!(sender instanceof Player)){
             return true;
         }
         Player player = (Player) sender;
+
         if(args.length == 0) {
             return help(player);
         }
@@ -109,7 +109,6 @@ public class PlotCommand implements CommandExecutor {
         sendMessage(player, settings.info, str_var);
         return true;
     }
-
     private boolean list(Player player){
         String list = String.join(", ", PlotManager.getPlayerRegions(player));
         sendMessage(player, settings.get("list").replace("{list}", list));
